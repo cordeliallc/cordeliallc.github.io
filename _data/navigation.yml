@@ -1,6 +1,36 @@
 # Site navigation links
 
-- title:
-  url:
+- title: Cordelia
+  url: /about-cordelia
+  excerpt:
+  image:
+
+- title: Products
+  url: /products/
+  excerpt:
+  image:
+
+- title: Services
+  url: /services/
+  excerpt:
+  image:
+
+- title: IaaS
+  url: /iaas/
+  excerpt:
+  image:
+
+- title: PaaS
+  url: /paas/
+  excerpt:
+  image:
+
+- title: SaaS
+  url: /saas/
+  excerpt:
+  image:
+
+- title: DaaS
+  url: /daas/
   excerpt:
   image:
